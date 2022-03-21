@@ -1,3 +1,9 @@
+Pull source code from repo https://github.com/JavNarek/assignment.git
+
+`cd assignment`
+`npm i`
+
+
 # Assignment
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.3.0.
